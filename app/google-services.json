@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "27333073734",
+    "firebase_url": "https://abhi-firebase-default-rtdb.firebaseio.com",
+    "project_id": "abhi-firebase",
+    "storage_bucket": "abhi-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27333073734:android:8d0832fd19e3861ae56347",
+        "android_client_info": {
+          "package_name": "com.kuldeepFirebase.AbhiFirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27333073734-g0hfv98pce70lacd892j9303pb3k4kpl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kuldeepFirebase.AbhiFirebase",
+            "certificate_hash": "3e90e4cb980d59da84857a31906c6106b3c49113"
+          }
+        },
+        {
+          "client_id": "27333073734-g374rmuvke6an92q9jocf7apk899s26b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC71x6npiN0NH6QkYPt7DzUn3O38cbZseg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27333073734-g374rmuvke6an92q9jocf7apk899s26b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
